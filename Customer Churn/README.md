@@ -4,6 +4,7 @@
 ## Навыки и инструменты
 - pandas
 - matplotlib
+- seaborn
 - sklearn
 - SMOTE
 - CatBoost

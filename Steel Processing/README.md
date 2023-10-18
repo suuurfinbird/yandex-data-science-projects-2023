@@ -10,7 +10,7 @@
 - sklearn
 - CatBoost
 - XGBoost
-- lightgbm
+- LightGBM
 - StackingSVRegressor
 - SHAP
 
